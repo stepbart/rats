@@ -7,5 +7,4 @@ public class Photo {
   private File image;
   private String name;
 
-
 }
